@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FVvoAEWo1IZn+eDx5NWKOz3QDpHfiw61oDpHDYBQ+k55w7cOLwTtYSRGN+f9rUSadRBZM050+OxewtHq0FkjaQ==",
+  "success": true,
+  "projectFilePath": "/home/xenu/RiderProjects/FollowingStuff/FollowingStuff.csproj",
+  "expectedPackageFiles": [
+    "/home/xenu/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.4/microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
