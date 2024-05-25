@@ -1,0 +1,16 @@
+{
+  "orders": [
+    {
+      "min": 999,
+      "max": 2000,
+      "links": ["https://www.tiktok.com/@idkidk252/video/7359633093281565985", "https://www.tiktok.com/@idkidk252/video/7359633093281565985"],
+      "service": 1960
+    },
+    {
+      "min": 999,
+      "max": 2000,
+      "links": ["https://www.tiktok.com/@idkidk252/video/7359633093281565985", "https://www.tiktok.com/@idkidk252/video/7359633093281565985"],
+      "service": 1960
+    }
+  ]
+}

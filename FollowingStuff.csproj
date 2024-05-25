@@ -9,23 +9,27 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="Microsoft.Extensions.Logging" Version="8.0.0" />
-      <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="8.0.0" />
-      <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
-      <PackageReference Include="Serilog" Version="3.1.1" />
-      <PackageReference Include="Serilog.Sinks.File" Version="5.0.0" />
+        <PackageReference Include="Microsoft.Extensions.Logging" Version="8.0.0"/>
+        <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="8.0.0"/>
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.3"/>
+        <PackageReference Include="Serilog" Version="3.1.1"/>
+        <PackageReference Include="Serilog.Sinks.File" Version="5.0.0"/>
     </ItemGroup>
 
     <ItemGroup>
-      <Content Include="bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll" />
+        <Content Include="bin\Debug\net8.0\FollowingStuff" />
+        <Content Include="bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll"/>
+        <Content Include="bin\Debug\net8.0\Serilog.dll" />
+        <Content Include="bin\Debug\net8.0\Serilog.Sinks.File.dll"/>
+        <Content Include="bin\Release\net8.0\win-x64\FollowingStuff.dll" />
     </ItemGroup>
 
     <ItemGroup>
-      <None Include="bin\Debug\net8.0\NLog.config" />
-        <None Update="config.json">
-            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-        </None>
-
+      <None Include="bin\Debug\net8.0\config.json" />
+      <None Include="bin\Release\net8.0\osx-x64\config.json" />
+      <None Include="bin\Release\net8.0\osx-x64\orders.json" />
+      <None Include="bin\Release\net8.0\win-x64\config.json" />
+      <None Include="bin\Release\net8.0\win-x64\orders.json" />
     </ItemGroup>
 
 </Project>
