@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BasLYfnb6zjL8xit/uAduDXHVgWxg6qbaF8Re+0lkJRwDYcoivIWaWmgv0FOE10Ruzm0Szy6S5J8yFVkZgy6LA==",
+  "dgSpecHash": "FnX7+MQC09FWeeY6cSJSAgsABa8jabkdFA8v8l+Z/R7YJyKJJexhGeAt1aUpZrHkRQKaMZlpr333ALU0k5rJxA==",
   "success": true,
   "projectFilePath": "/home/xenu/RiderProjects/FollowingStuff/FollowingStuff.csproj",
   "expectedPackageFiles": [
@@ -21,7 +21,7 @@
     "/home/xenu/.nuget/packages/serilog.sinks.file/5.0.0/serilog.sinks.file.5.0.0.nupkg.sha512",
     "/home/xenu/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
     "/home/xenu/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
-    "/home/xenu/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.4/microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512"
+    "/home/xenu/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
   ],
   "logs": []
 }
